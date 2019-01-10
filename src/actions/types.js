@@ -1,0 +1,1 @@
+export const AUTH_USE = 'auth_user'
